@@ -8,7 +8,9 @@
 
 ### 启动项目
 `npm run start`
+
 在本地启动项目，默认端口3001，可在`app.js`内配置
+
 
 项目启动后即可用postman或其他工具调试接口：
 http://127.0.0.1:3001/canvas/processImage

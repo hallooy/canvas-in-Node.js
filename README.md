@@ -15,7 +15,7 @@
 项目启动后即可用postman或其他工具调试接口：
 `http://127.0.0.1:3001/canvas/processImage`
 
-关于canvas处理图片的主要代码请参考 
+**关于canvas处理图片的主要代码请参考**
 `controllers/processImage.js`
 
 本项目是在[廖雪峰](https://github.com/michaelliao/learn-javascript.git)的koa项目上搭建的，有兴趣可以了解下

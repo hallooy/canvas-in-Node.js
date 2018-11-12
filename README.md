@@ -13,7 +13,7 @@
 
 
 项目启动后即可用postman或其他工具调试接口：
-http://127.0.0.1:3001/canvas/processImage
+`http://127.0.0.1:3001/canvas/processImage`
 
 关于canvas处理图片的主要代码请参考 
 `controllers/processImage.js`

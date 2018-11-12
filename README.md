@@ -1,12 +1,12 @@
 # canvas-in-Node.js
 在node.js内利用node-canvas插件处理图片
 
-##快速开始##
+## 快速开始
 
-###安装依赖###
+### 安装依赖
 `npm install`
 
-###启动项目###
+### 启动项目
 `npm run start`
 在本地启动项目，默认端口3001，可在`app.js`内配置
 

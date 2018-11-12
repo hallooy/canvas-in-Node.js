@@ -1,5 +1,5 @@
 # canvas-in-Node.js
-在node.js内利用node-canvas插件处理图片
+在node.js内利用[node-canvas](https://www.npmjs.com/package/canvas)插件处理图片
 
 ## 快速开始
 
